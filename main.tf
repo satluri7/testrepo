@@ -1,6 +1,6 @@
 provider "azurerm" {
   environment     = "public"
-  subscription_id = "7576f783-0404-4171-be43-0c4c10e5f0b33"
+  subscription_id = "XXX"
   version         = "1.29.0"
 }
 
